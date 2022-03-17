@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
     fun testFun1(){
 
     }
+
+    fun testFun2(){
+
+    }
 }
